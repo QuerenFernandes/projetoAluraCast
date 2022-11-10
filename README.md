@@ -1,17 +1,5 @@
-# Nome do meu projeto
+Projeto Alura Cast
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto com foco na prática de grid no CSS. 
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
-
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
-
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+![aluraCast](https://user-images.githubusercontent.com/95857175/201077022-a055c460-5bca-450c-8594-f7bdec9b65b1.png#vitrinedev)
